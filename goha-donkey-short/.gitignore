@@ -1,0 +1,7 @@
+node_modules/
+stills/
+sheet*.jpg
+out/seg*.mp4
+out/list.txt
+out/video_only.mp4
+out/music.wav
